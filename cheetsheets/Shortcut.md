@@ -30,3 +30,4 @@ tags:
 | `⌘ + D`     | Show Git difference.                    |
 | `⌘ + W`     | Close the tab.                          |
 | `⌘ + ⇧ + U` | Upper case.                             |
+| `⌘ + ⬅️`    | Make cursor to line head.               |

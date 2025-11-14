@@ -21,4 +21,6 @@ git config user.email
 git config user.name "John Doe"
 git config user.name "John Doe"
 
+git config --global --unset user.name
+
 ```
